@@ -6,7 +6,7 @@ I am Arya
 - 🌱 I’m currently learning React ...
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/arya-nikale-6bb212191">Linkedin</a>
 - ⚡ Fun fact: HHTML is a programming language
-- <br>
+<br>
   <h2>Github Stats</h2>
 
  
